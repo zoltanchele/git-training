@@ -5,4 +5,6 @@ Created for training purposes.
 
 ## Purpose
 
+## Deployment
+
 ## How to contribute
