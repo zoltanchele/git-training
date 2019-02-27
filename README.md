@@ -1,5 +1,6 @@
 # git-training
-Created for training purposes.
+
+This is a simple collection of files for showing how to use Git and Github together.
 
 ## Introduction
 
